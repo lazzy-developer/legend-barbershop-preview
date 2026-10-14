@@ -1,0 +1,1 @@
+var e=`/legend-barbershop-preview/`.replace(/\/$/,``),t=t=>e+t;export{t};

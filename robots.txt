@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /
+
+Sitemap: https://lazzy-developer.github.io/legend-barbershop-preview/sitemap.xml
